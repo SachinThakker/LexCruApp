@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lexcru Rewards</string>
+
+    <string name="lbl_welcome">Welcome</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--Common messages-->
+    <string name="default_internet_message">No internet available</string>
+    <string name="lbl_no_internet_connection">No Internet Connection</string>
+    <string name="lbl_dont_have_account">Don\'t have an account ? Sign Up</string>
+    <string name="lbl_already_have_account">Already have an account ? Sign In</string>
+    <string name="takephoto">Take Photo</string>
+    <string name="choosefromgallery">Choose from Library</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

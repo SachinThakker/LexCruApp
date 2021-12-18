@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906883274804",
+    "project_id": "makana-ferry",
+    "storage_bucket": "makana-ferry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906883274804:android:5297b86bde4c61c4e95261",
+        "android_client_info": {
+          "package_name": "com.lexcru.lexcruapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906883274804-cm2g3v79u2urcosrhasil43va3fngbo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZePU5TBWAiMOFZjDBHMJ-uavHKuoUvHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906883274804-cm2g3v79u2urcosrhasil43va3fngbo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/black</item>
+    </style>
+
+    <style name="tv_wrap_content" parent="Widget.AppCompat.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+
+    <style name="gotham_bold" parent="tv_wrap_content">
+        <item name="fontFamily">@font/gotham_bold</item>
+    </style>
+
+    <style name="gotham_medium" parent="tv_wrap_content">
+        <item name="fontFamily">@font/gotham_medium</item>
+    </style>
+
+
+    <!--EditText styles-->
+    <style name="et_wrap_content" parent="Widget.AppCompat.EditText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textCursorDrawable">@null</item>
+    </style>
+
+</resources>

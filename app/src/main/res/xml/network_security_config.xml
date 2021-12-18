@@ -1,0 +1,22 @@
+<!--<network-security-config>-->
+<!--&lt;!&ndash;    <domain-config cleartextTrafficPermitted="true">&ndash;&gt;-->
+<!--&lt;!&ndash;        <domain includeSubdomains="true" >afaqtechweb.com</domain>&ndash;&gt;-->
+<!--&lt;!&ndash;    </domain-config>&ndash;&gt;-->
+<!--<domain-config cleartextTrafficPermitted="true">-->
+
+<!--&lt;!&ndash;    <domain includeSubdomains="true">pinnaclesoln.com</domain>&ndash;&gt;-->
+<!--            <domain includeSubdomains="true">192.168.1.19</domain>-->
+<!--    <trust-anchors>-->
+<!--        <certificates src="@raw/iplumber" />-->
+<!--    </trust-anchors>-->
+<!--</domain-config>-->
+
+<!--</network-security-config>-->
+
+<network-security-config>
+<base-config cleartextTrafficPermitted="true">
+    <trust-anchors>
+        <certificates src="system" />
+    </trust-anchors>
+</base-config>
+</network-security-config>

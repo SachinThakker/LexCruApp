@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android 2021/FerryBookingApp/app/src/main/res/drawable/barcode_field_box.xml" value="0.21822916666666667" />
+        <entry key="..\:/Android 2021/FerryBookingApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21822916666666667" />
+        <entry key="..\:/Android 2021/FerryBookingApp/app/src/main/res/font/allura.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android 2021/FerryBookingApp/app/src/main/res/font/almendra_display.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android 2021/FerryBookingApp/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Android 2021/FerryBookingApp/app/src/main/res/layout/activity_splash.xml" value="0.17603850050658562" />
+        <entry key="..\:/HimadriProject/FerryBookingApp/app/src/main/res/drawable/ic_orange_heart.xml" value="0.2203125" />
+        <entry key="..\:/HimadriProject/FerryBookingApp/app/src/main/res/drawable/ic_orange_heart_outline.xml" value="0.2203125" />
+        <entry key="..\:/HimadriProject/FerryBookingApp/app/src/main/res/drawable/ic_password_not_show.xml" value="0.1125" />
+        <entry key="..\:/HimadriProject/FerryBookingApp/app/src/main/res/drawable/ic_password_show.xml" value="0.2203125" />
+        <entry key="..\:/HimadriProject/FerryBookingApp/app/src/main/res/layout/activity_main.xml" value="0.11548913043478261" />
+        <entry key="..\:/HimadriProject/FerryBookingApp/app/src/main/res/layout/activity_no_internet.xml" value="0.1213768115942029" />
+        <entry key="..\:/HimadriProject/FerryBookingApp/app/src/main/res/layout/layout_loading_item.xml" value="0.1213768115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
